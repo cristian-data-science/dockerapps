@@ -1,0 +1,4 @@
+/nginx-manager/data
+/nginx-manager/letsencrypt
+/heimdall/h_config
+/glances/data
